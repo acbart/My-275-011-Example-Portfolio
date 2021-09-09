@@ -1,7 +1,9 @@
 # My-275-011-Example-Portfolio
 
 Name: Dr. Bart
+
 Email: acbart@udel.edu
+
 Link: [https://github.com/acbart/My-275-011-Example-Portfolio](https://github.com/acbart/My-275-011-Example-Portfolio)
 
 # Portfolio
